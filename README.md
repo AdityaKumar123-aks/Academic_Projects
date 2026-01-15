@@ -28,7 +28,7 @@ Objective: Design and hardware implementation of a Power Factor Correction circu
 
 Tools: Validated in LTSpice and designed compact PCB in Altium.
 
-[View Project Folder](./Design and Development of PFC converter for EV charger)
+[View Project Folder](./Design_and_Development_of_PFC_converter_for_EV_charger)
 
 **3. 50W Flyback DC-DC Converter**
 
