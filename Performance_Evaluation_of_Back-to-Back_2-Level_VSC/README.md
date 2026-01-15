@@ -2,7 +2,7 @@
 
 Course Assignment - EN 659 | Modeling and Control of IBRR 
 
-## 📌 Project Overview
+## 📌 Assignment Overview
 
 This project focuses on the performance analysis of a back-to-back 2-level Voltage Source Converter (VSC) operating under open-loop control. The study specifically compares the efficiency and harmonic performance of Centered Space Vector PWM (CSVPWM) against Sinusoidal Triangle PWM (STPWM) across all four quadrants of operation.
 
