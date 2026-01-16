@@ -18,7 +18,7 @@ This project involved the design and simulation of a 1-phase Active Power Filter
  
 **Harmonic Suppression:** Designed a 1-phase APF that maintains source-current well below the **IEEE-519 THD limit of 5%**.
 
-**Control Strategy:** Implemented a PI DC-bus regulator with specific gains (, ) to stabilize voltage without overshoot under dynamic load conditions.
+**Control Strategy:** Implemented a PI DC-bus regulator with specific gains (Kp = 0.45, Ki = 1) to stabilize voltage without overshoot under dynamic load conditions.
 
 **Modeling & Validation:** Formulated precise state-space models for both the controller and the active filter to drive accurate simulation results.
 
