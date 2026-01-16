@@ -1,6 +1,6 @@
 # Omni-directional Robotic Vehicle
 
-**B.Tech Project - KEE 851 | REC Bijnor**
+**B.Tech Project - KEE 851 | REC Bijnor, AKTU**
 
 
 ## 📌 Project Overview
