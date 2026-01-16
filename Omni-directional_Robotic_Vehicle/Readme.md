@@ -40,5 +40,3 @@ The objective of this project was to design and construct an **Arduino-based omn
 
 
 
-
-rate your growth from **Basic Embedded Systems** (B.Tech) to **Advanced Power Electronics and EV Infrastructure** (M.Tech) to any recruiter viewing your profile.
